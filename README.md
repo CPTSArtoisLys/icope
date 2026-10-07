@@ -7,7 +7,7 @@ Page statique destinée aux adhérents, préparée le 7 octobre 2026. Compatible
 - Présentation des six fonctions ICOPE et des trois facteurs complémentaires.
 - Parcours de repérage, évaluation, accompagnement et suivi.
 - Gestion des alertes : principes communs ; organisation Artois Lys à préciser avec la CPTS.
-- Synthèse des prescriptions des kinés à partir de l'annexe CPTS Sud Oise, vérifiée contre l'arrêté du 14 septembre 2026.
+- Synthèse des prescriptions des kinés à partir de l'annexe CPTS Artois Lys, vérifiée contre l'arrêté du 14 septembre 2026.
 - Formations, outils numériques et tutoriels transmis.
 
 ## Publication
@@ -20,7 +20,7 @@ La page est informative et ne recueille aucune donnée de patient. GitHub Pages 
 
 ## Sources et décisions éditoriales
 
-L'annexe Sud Oise fournie est conservée sous `annexe-prescription-kines-cpts-sud-oise.pdf` avec son attribution. Les formulaires et guides CHU Toulouse n'ont pas été republiés ; des liens renvoient aux ressources officielles. Le texte de la page est une présentation originale, sans reproduction des questionnaires.
+L'annexe illustrée, adaptée avec l'accord de réutilisation communiqué par la CPTS, est disponible sous `annexe-prescription-kines-cpts-artois-lys.pdf` sous l’identité de la CPTS Artois Lys. Les formulaires et guides CHU Toulouse n'ont pas été republiés ; des liens renvoient aux ressources officielles. Le texte de la page est une présentation originale, sans reproduction des questionnaires.
 
 Le protocole d'alertes de juin 2026 décrit une organisation en Occitanie : ses circuits locaux et seuils détaillés ne sont pas présentés comme ceux de l'Artois Lys. Aucun financement ni tarif de dépistage n'est annoncé. Les durées de formation viennent du message transmis et sont signalées comme indicatives. Les vidéos et le dossier Dropbox sont les liens fournis, sans prétendre que leur contenu a été visionné. Le lien Smash, inaccessible lors de la préparation, n'a pas servi à la rédaction.
 
